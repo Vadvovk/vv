@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49079" started-at="2017-04-12T18:48:38Z" finished-at="2017-04-12T18:49:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49079" started-at="2017-04-12T18:48:38Z" finished-at="2017-04-12T18:49:28Z">
+      <class name="vocaltec.test.StartApplication">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:vocaltec.test.StartApplication@51565ec2]" name="setUp" is-config="true" duration-ms="7338" started-at="2017-04-12T11:48:38Z" finished-at="2017-04-12T11:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMessageNew()[pri:1, instance:vocaltec.test.StartApplication@51565ec2]" name="testMessageNew" duration-ms="27597" started-at="2017-04-12T11:48:46Z" finished-at="2017-04-12T11:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMessageNew -->
+        <test-method status="PASS" signature="testMessageExisted()[pri:2, instance:vocaltec.test.StartApplication@51565ec2]" name="testMessageExisted" duration-ms="13195" started-at="2017-04-12T11:49:13Z" finished-at="2017-04-12T11:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMessageExisted -->
+        <test-method status="PASS" signature="End()[pri:0, instance:vocaltec.test.StartApplication@51565ec2]" name="End" is-config="true" duration-ms="925" started-at="2017-04-12T11:49:27Z" finished-at="2017-04-12T11:49:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- vocaltec.test.StartApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

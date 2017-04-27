@@ -1,2 +1,0 @@
-Test Vadim
-sfsdfsdf
